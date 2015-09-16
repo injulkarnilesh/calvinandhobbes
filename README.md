@@ -12,12 +12,12 @@ Once installed,  you can simply run $camvinandhobbes or $ch to show today's Calv
 You can use one of the below options to specify which strip to load.
 * -r  
 Shows a strip from a random date.   
-   ```bash
+   ```
     $calvinandhobbes -r
    ```
 * -d  
  With this option you can specify the specific date to load a strip of. Supported format of the date is YYYY/MM/DD.
-    ```bash
+    ```
     $calvinandhobbes -d 2013/10/23
    ```
 
