@@ -1,6 +1,6 @@
 {
   "name"         : "calvinandhobbes",
-  "version"      : "0.0.1",
+  "version"      : "0.0.2",
   "description"  : "Calvin and Hobbes comic strips from GoComics",
   "keywords"     : ["Calvin", "Hobbes", "comic", "Calvin and Hobbes"],
   "main"         : "index.js",
@@ -16,6 +16,8 @@
     "request"    : "^2.62.0",
     "cheerio"    : "^0.19.0",
     "openurl"    : "^1.1.0",
-    "moment"     : "^2.10.6"
+    "moment"     : "^2.10.6",
+    "os-tmpdir"  : "^1.0.1",
+    "nconf"      : "^0.8.0"
   }
 }

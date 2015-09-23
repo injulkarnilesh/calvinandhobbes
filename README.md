@@ -21,4 +21,10 @@ Shows a strip from a random date.
     $calvinandhobbes -d 2013/10/23
    ```
 
+* -n
+Shows a strip of a next day of the last strip loaded with some date.
+	```
+	 $$calvinandhobbes -n
+	 ```
+
 As GoComic itself does not provide strips for all the dates, if the date you provided or randomly generated is not supported by GoComic, today's strip will be loaded.
