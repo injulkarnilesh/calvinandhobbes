@@ -21,8 +21,8 @@ Shows a strip from a random date.
     $calvinandhobbes -d 2013/10/23
    ```
 
-* -n
-Shows a strip of a next day of the last strip loaded with some date.
+* -n  
+ Shows a strip of a next day of the last strip loaded with some date.
 	```
 	 $$calvinandhobbes -n
 	 ```
