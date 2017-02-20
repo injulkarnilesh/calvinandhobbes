@@ -3,7 +3,7 @@
 
 	var constant = {
 	 	BASE_URL : 'http://www.gocomics.com/calvinandhobbes/',
-		STRIP_SELECTOR : '.strip',
+		STRIP_SELECTOR : '.item-comic-link img',
 		ELEMENT_ATTR : 'src',
 		FIRST_DATE : '1985/11/18',
 		DATE_FORMAT : 'YYYY/MM/DD',
