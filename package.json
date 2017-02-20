@@ -1,6 +1,6 @@
 {
   "name"         : "calvinandhobbes",
-  "version"      : "0.0.2",
+  "version"      : "0.0.3",
   "description"  : "Calvin and Hobbes comic strips from GoComics",
   "keywords"     : ["Calvin", "Hobbes", "comic", "Calvin and Hobbes"],
   "main"         : "index.js",
